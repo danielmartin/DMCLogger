@@ -15,7 +15,7 @@ DMCLogger requires iOS 7 or greater.
 
 ## Installation
 
-# CocoaPods
+### CocoaPods
 
 DMCLogger is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
@@ -24,7 +24,7 @@ it, simply add the following line to your Podfile:
 pod "DMCLogger"
 ```
 
-# Manually
+### Manually
 
 Clone the project and drag the contents of DMCLogger/Classes into your Xcode project. Make sure you select the copy to destination option if you need to do so.
 
