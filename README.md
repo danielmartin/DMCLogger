@@ -28,6 +28,10 @@ pod "DMCLogger"
 
 Clone the project and drag the contents of DMCLogger/Classes into your Xcode project. Make sure you select the copy to destination option if you need to do so.
 
+### Who's Using DMCLogger
+
+[Fon WiFi - Connect Everyday!](https://itunes.apple.com/us/app/fon-wifi-connect-everyday!/id992080676?mt=8)
+
 ## Author
 
 Daniel Martín, mardani29@yahoo.es
